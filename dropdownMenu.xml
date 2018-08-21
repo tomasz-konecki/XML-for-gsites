@@ -72,44 +72,44 @@
 <body>
 <ul class="nav">
     <li>
-        <a href="#">Continuous Integration</a>
+        <a href="#">Group 1</a>
         <ul>
-            <li><a href="#">Bitbucket</a></li>
-            <li><a href="#">Artifactory</a></li>
-            <li><a href="#">Bamboo</a></li>
-            <li><a href="#">Sonar</a></li>
+            <li><a href="#">Item 1</a></li>
+            <li><a href="#">Item 2</a></li>
+            <li><a href="#">Item 3</a></li>
+            <li><a href="#">Item 4</a></li>
         </ul>
     </li>
     <li>
-        <a href="#">Team Management</a>
+        <a href="#">Group 2</a>
         <ul>
-            <li><a href="#">Confluence</a></li>
-            <li><a href="#">HipChat</a></li>
-            <li><a href="#">JIRA</a></li>
+            <li><a href="#">Item 1</a></li>
+            <li><a href="#">Item 2</a></li>
+            <li><a href="#">Item 3</a></li>
         </ul>
     </li>
     <li>
-        <a href="#">Continuous Deployment</a>
+        <a href="#">Group 3</a>
         <ul>
-            <li><a href="#">CDS</a></li>
+            <li><a href="#">Item 1</a></li>
         </ul>
     </li>
     <li>
-        <a href="#">Log Management</a>
+        <a href="#">Group 4</a>
         <ul>
-            <li><a href="#">ELK</a></li>
+            <li><a href="#">Item 1</a></li>
         </ul>
     </li>
     <li>
-        <a href="#">Monitoring</a>
+        <a href="#">Group 5</a>
         <ul>
-            <li><a href="#">AMS</a></li>
+            <li><a href="#">Item 1</a></li>
         </ul>
     </li>
     <li>
-        <a href="#">Application Security</a>
+        <a href="#">Group 6</a>
         <ul>
-            <li><a href="#">Checkmarks</a></li>
+            <li><a href="#">Item 1</a></li>
         </ul>
     </li>
 </ul>
