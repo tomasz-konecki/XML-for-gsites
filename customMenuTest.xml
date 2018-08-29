@@ -124,10 +124,10 @@
             }
         }
 
-        
+        localStorage.xmlTest = "working well";
 
         // value from local storage set in XML
-        testXML.innerText = localStorage.test;
+        testXML.innerText = localStorage.xmlTest;
         
         // value from local storage set in Apps Script
         testScript.innerText = localStorage.customMenu;
