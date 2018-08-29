@@ -92,17 +92,17 @@
     <ul class="nav">
         <li id="home-tab">
           <div style="display:flex">
-            <a href="#">HOME</a>
+            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home" target="_top">HOME</a>
             <div style="height:15px;width:15px">
               <img src="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/newFlag.png" id="home-tab-img" style="width:100%" />
              </div>
           </div>
         </li>
         <li>
-            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/news" target="_self">NEWS</a>
+            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/news" target="_top">NEWS</a>
         </li>
         <li>
-            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/our-products" target="_self">OUR PRODUCTS</a>
+            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/our-products" target="_top">OUR PRODUCTS</a>
             <ul>
                 <div style="display:flex">
                     <li><a href="#">Retina</a></li>
@@ -115,10 +115,10 @@
             </ul>
         </li>
         <li>
-            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/agile" target="_self">AGILE</a>
+            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/agile" target="_top">AGILE</a>
         </li>
         <li>
-            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/about-us" target="_self">ABOUT US</a>
+            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/about-us" target="_top">ABOUT US</a>
         </li>
 
     </ul>
