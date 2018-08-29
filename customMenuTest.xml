@@ -86,8 +86,8 @@
 </head>
 
 <body>
-    <p style="color:rgb(50, 163, 50)">Local storage set in XLM: <span id="test-xml"></span></p>
-    <p style="color:rgb(50, 163, 50)">Local storage set in Apps Script: <span id="test-script"></span></p>
+    <p style="color:gray">Local storage set in XLM: <span id="test-xml" style="color:green"></span></p>
+    <p style="color:gray">Local storage set in Apps Script: <span id="test-script" style="color:green"></span></p>
 
     <ul class="nav">
         <li>
