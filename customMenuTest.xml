@@ -99,8 +99,14 @@
         <li>
             <a href="#">OUR PRODUCTS</a>
             <ul>
-                <li><a href="#">Retina</a></li>
-                <li><a href="#">Team Foundation Server</a></li>
+                <div style="display:flex">
+                    <li><a href="#">Retina</a></li>
+                    <li><a href="#">Team Foundation Server</a></li>
+                    <li><a href="#">Advanced Virtualisation Services</a></li>
+                    <li><a href="#">CloudBees Jenkins</a></li>
+                    <li><a href="#">New products</a></li>
+
+                </div>
             </ul>
         </li>
         <li>
