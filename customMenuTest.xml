@@ -99,10 +99,10 @@
           </div>
         </li>
         <li>
-            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/news" target="_top">NEWS</a>
+            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/news" target="_parent">NEWS</a>
         </li>
         <li>
-            <a href="#">OUR PRODUCTS</a>
+            <a href="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/our-products">OUR PRODUCTS</a>
             <ul>
                 <div style="display:flex">
                     <li><a href="#">Retina</a></li>
