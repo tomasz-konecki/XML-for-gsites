@@ -90,8 +90,13 @@
     <p style="color:gray">Local storage set in Apps Script: <span id="test-script" style="color:green;font-style:italic"></span></p>
 
     <ul class="nav">
-        <li>
+        <li id="home-tab">
+          <div style="display:flex">
             <a href="#">HOME</a>
+            <div style="height:15px;width:15px">
+              <img src="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/newFlag.png" id="home-tab-img" style="width:100%" />
+             </div>
+          </div>
         </li>
         <li>
             <a href="#">NEWS</a>
@@ -118,13 +123,13 @@
 
     </ul>
 
-   <div style="width:15px;height:15px">
-     <img src="https://sites.google.com/a/contractors.roche.com/custom-menu-with-indicators/home/newFlag.png" style="width:100%;height:100%"/>
-   </div>
-
     <script>
         var testXML = document.getElementById("test-xml");
         var testScript = document.getElementById("test-script");
+        var homeTab = document.getElementById('home-tab');
+        var homeTabImg = document.getElementById("home-tab-img");
+
+    homeTab.onclick = () => hideFlag();
 
         var url = (window.location != window.parent.location)
             ? document.referrer
