@@ -130,7 +130,7 @@
         testXML.innerText = localStorage.xmlTest;
         
         // value from local storage set in Apps Script
-        testScript.innerText = localStorage.customMenu;
+        testScript.innerText = localStorage.appsTest;
 
     </script>
 </body>
