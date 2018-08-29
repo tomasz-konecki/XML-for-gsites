@@ -86,7 +86,8 @@
 </head>
 
 <body>
-    <h5 style="color:rgb(50, 163, 50)"></h5>
+    <p style="color:rgb(50, 163, 50)">Local storage set in XLM: <span id="test-xml"></span></p>
+    <p style="color:rgb(50, 163, 50)">Local storage set in Apps Script: <span id="test-script"></span></p>
 
     <ul class="nav">
         <li>
@@ -111,7 +112,8 @@
 
     </ul>
     <script>
-        var test = document.querySelector('h5');
+        var testXML = document.getElementById("test-xml");
+        var testScript = document.getElementById("test-script");
 
         var url = (window.location != window.parent.location)
             ? document.referrer
@@ -122,9 +124,13 @@
             }
         }
 
-     
+        
 
-        test.innerText = localStorage.customMenu;
+        // value from local storage set in XML
+        testXML.innerText = localStorage.test;
+        
+        // value from local storage set in Apps Script
+        testScript.innerText = localStorage.customMenu;
 
     </script>
 </body>
