@@ -130,7 +130,7 @@
             }
         }
 
-        // localStorage.xmlTest = "data from Apss Script storage";
+        // localStorage.xmlTest = "data from XML storage";
 
         // value from local storage set in XML
         testXML.innerText = localStorage.xmlTest;
