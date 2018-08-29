@@ -122,9 +122,9 @@
             }
         }
 
-        localStorage.test = "XML file to test a custom menu with indicators";
+     
 
-        test.innerText = localStorage.test;
+        test.innerText = localStorage.customMenu;
 
     </script>
 </body>
