@@ -130,7 +130,7 @@
             }
         }
 
-        localStorage.xmlTest = "working well";
+        // localStorage.xmlTest = "working well";
 
         // value from local storage set in XML
         testXML.innerText = localStorage.xmlTest;
